@@ -1,0 +1,25 @@
+{
+    "id_numero": 1,
+    "paikkakunnan_nimi": "",
+    "koordinaatit" : [
+        "lat" : , 
+        "lon" : ]
+        ,
+    "nahtavyydet": [
+      {
+        "nimi": " ",
+        "kuvaus": " ",
+        "arvostelu": 
+      },
+      {
+        "nimi": " ",
+        "kuvaus": " ",
+        "arvostelu": 
+      },
+      {
+        "nimi": " ",
+        "kuvaus": " ",
+        "arvostelu": 
+      }
+    ]
+  }

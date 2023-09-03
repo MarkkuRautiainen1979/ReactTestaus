@@ -1,0 +1,25 @@
+{
+    "id_numero": 1,
+    "paikkakunnan_nimi": "Joensuu",
+    "koordinaatit" : [
+        "lat" : 62.602079226 , 
+        "lon" : 29.759679275]
+        ,
+    "nahtavyydet": [
+      {
+        "nimi": "Botania",
+        "kuvaus": "Kaunis kasvitieteellinen puutarha.",
+        "arvostelu": 4.5
+      },
+      {
+        "nimi": "Kolin kansallispuisto",
+        "kuvaus": "Upeat maisemat ja vaellusreitit.",
+        "arvostelu": 4.8
+      },
+      {
+        "nimi": "Pohjois-Karjalan museo Hilma",
+        "kuvaus": "Paikallisen historian näyttelyitä.",
+        "arvostelu": 4.2
+      }
+    ]
+  }

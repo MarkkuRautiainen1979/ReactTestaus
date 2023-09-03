@@ -1,0 +1,23 @@
+[
+  {
+    "businessId": "3382731-1",
+    "name": "Exercio Oy",
+    "registrationDate": "2023-08-11",
+    "city": "TAMPERE",
+    "street": "Makkarajärvenkatu 74 B 100"
+  },
+  {
+    "businessId": "3382734-6",
+    "name": "SPYlimäinen Oy",
+    "registrationDate": "2023-08-11",
+    "city": "OULU",
+    "street": "Kiritie 1"
+  },
+  {
+    "businessId": "3382756-5",
+    "name": "Resolv Oy",
+    "registrationDate": "2023-08-11",
+    "city": "HELSINKI",
+    "street": "Viikinportti 2 E 67"
+  }
+]

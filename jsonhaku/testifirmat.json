@@ -1,0 +1,25 @@
+[
+  
+    {
+      "businessId": "3382731-1",
+      "name": "Exercio Oy",
+      "registrationDate": "2023-08-11",
+      "companyForm": "OY",
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/3382731-1"
+    },
+    {
+      "businessId": "3382734-6",
+      "name": "SPYlimäinen Oy",
+      "registrationDate": "2023-08-11",
+      "companyForm": "OY",
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/3382734-6"
+    },
+    {
+      "businessId": "3382756-5",
+      "name": "Resolv Oy",
+      "registrationDate": "2023-08-11",
+      "companyForm": "OY",
+      "detailsUri": "http://avoindata.prh.fi/opendata/bis/v1/3382756-5"
+    }
+
+  ]
